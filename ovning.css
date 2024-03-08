@@ -1,0 +1,62 @@
+*{
+    border: 1px solid brown;
+    margin: 10px;
+
+}
+
+body{
+    background-color: brown;
+    
+    
+}
+
+
+h1{
+    
+    background-color: brown;
+    color: white;
+    
+}
+p{
+    color: black;
+    font-size: 30px;
+    
+    
+}
+
+
+    
+#Cevap{
+    background-color: white;
+    color: black;
+}
+
+#Cevap:hover{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+#tre:hover{
+    background-color: brown;
+
+}
+#fyra:hover,#fem:hover{
+    text-transform: uppercase;
+    background-color: brown;
+    color: white;
+}
+
+#sex:hover{
+    text-transform: uppercase;
+    background-color: brown;
+    color: white;
+}
+
+#yt{
+    opacity: 0,2;
+}
+
+#yt:hover{
+    opacity: 0,9;
+}
